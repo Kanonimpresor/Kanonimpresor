@@ -21,13 +21,13 @@ a su ecosistema: contribuciones al core, plugins, themes, traducciones y guías.
 | | |
 |---|---|
 | 🩹 **PR upstream activo** | [`e107inc/e107#5596`](https://github.com/e107inc/e107/pull/5596) — Renderizador enriquecido para los Docs del admin (Bootstrap 3 + TOC + callouts + screenshots) |
-| �🇸🇵🇹 **Packs de idioma v2.4.0** | [Spanish](https://github.com/Kanonimpresor/Spanish) · [Portuguese](https://github.com/Kanonimpresor/Portuguese) — primeros packs alineados con el nuevo renderizador enriquecido |
+| ES PT **Packs de idioma v2.4.0** | [Spanish](https://github.com/Kanonimpresor/Spanish) · [Portuguese](https://github.com/Kanonimpresor/Portuguese) — primeros packs alineados con el nuevo renderizador enriquecido |
 | 🛒 **Plugin estrella** | [`vstore`](https://github.com/Kanonimpresor/vstore) — E-commerce completo para e107 v2.x |
 | 👤 **Plugin propio** | [`perfil-pro`](https://github.com/Kanonimpresor/perfil-pro) — Perfil profesional animado y responsive |
 
 ---
 
-## �🏗️ e107 Core
+## 🏗️ e107 Core
 
 | Repo | Estado | Descripción |
 |---|---|---|
@@ -92,3 +92,9 @@ a su ecosistema: contribuciones al core, plugins, themes, traducciones y guías.
 
 - 🌐 [marketingdeperformance.online](https://marketingdeperformance.online/)
 - 💼 Marketing de performance + desarrollo CMS
+
+<div align="center">
+
+_Hecho con ❤️ y mucho ☕ desde Castelo Branco_
+
+</div>
