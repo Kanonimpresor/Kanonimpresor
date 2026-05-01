@@ -6,9 +6,10 @@
 
 [![Repos](https://img.shields.io/badge/repos-31-blue?style=flat-square&logo=github)](https://github.com/Kanonimpresor?tab=repositories)
 [![e107](https://img.shields.io/badge/CMS-e107-d24343?style=flat-square)](https://e107.org)
+[![PHP](https://img.shields.io/badge/PHP-8.x-777bb4?style=flat-square&logo=php&logoColor=white)](https://php.net)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952b3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Kanonimpresor)
 [![Made in Portugal](https://img.shields.io/badge/Made%20in-Portugal%20%F0%9F%87%B5%F0%9F%87%B9-006600?style=flat-square)](https://github.com/Kanonimpresor)
-
 </div>
 
 Apasionado por **[e107 CMS](https://e107.org)** desde hace años. Aquí encontrarás mis aportes
